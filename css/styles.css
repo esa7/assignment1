@@ -1,3 +1,7 @@
-body{color:mediumpurple;
-    background background-color: floralwhite;
+body {
+    color: mediumpurple;
+    background-color: floralwhite;
+
+    font-family: "helvetica";
+    font-size: 15px
 }
