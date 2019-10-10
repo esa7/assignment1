@@ -2,6 +2,14 @@ body {
     color: mediumpurple;
     background-color: floralwhite;
 
+
     font-family: "helvetica";
     font-size: 15px
+}
+
+li {
+    font-weight: 900;
+
+
+
 }
